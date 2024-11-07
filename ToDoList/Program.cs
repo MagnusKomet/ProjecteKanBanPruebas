@@ -8,6 +8,7 @@ using System.IO;
 
 namespace ToDoList
 {
+    //probando probando
     class Program
     {
         static List<String> todos = new List<string>();
@@ -31,6 +32,8 @@ namespace ToDoList
                         //eliminar element
                         removeItem();
                         break;
+
+                        
                     case 0:
                         break;
                     default:
