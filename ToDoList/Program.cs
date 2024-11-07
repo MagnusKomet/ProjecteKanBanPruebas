@@ -8,9 +8,6 @@ using System.IO;
 
 namespace ToDoList
 {
-    //probando probando
-    //Me gustan los macarrones
-    //Justo hoy he comido macarrones
     class Program
     {
         static List<String> todos = new List<string>();
